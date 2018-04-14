@@ -70,20 +70,20 @@
         ],
         "responses": [{
             "content": "无图无真相",
-            "nextXianzhe": ["0014"]
+            "nextXianzhe": ["00010"]
         }, {
             "content": "有我可爱？",
-            "nextXianzhe": ["0013"]
+            "nextXianzhe": ["0009"]
         }]
     }, {
         
-        "id": "0013",
+        "id": "0009",
         "details": [
             ["还真有！"]
         ],
-        "nextXianzhe": ["0014"]
+        "nextXianzhe": ["0010"]
     }, {
-        "id": "0014",
+        "id": "0010",
         "details": [
             ["img src='img/xianzhe.jpg'>","怎么样，是不是肤白貌美，天生丽质]
         ]
