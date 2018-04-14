@@ -2,35 +2,35 @@
     "fromXianzhe": [{
         "id": "0000",
         "details": [
-            ["很高兴见到你"]
+            ["很高兴遇见你，小姐姐！猜猜我是谁？"]
         ],
         "responses": [{
-            "content": "我也是！",
+            "content": "笨笨！",
             "nextXianzhe": ["0003"]
         }, {
-            "content": "我很怀疑这点……",
+            "content": "戏精本精",
             "nextXianzhe": ["0001"]
         }, {
-            "content": "真的吗？",
+            "content": "路人甲",
             "nextXianzhe": ["0002"]
         }],
         "nextUser": ["1000"]
     }, {
         "id": "0001",
         "details": [
-            ["……", "好吧"]
+            ["嘿嘿~", "这都被你发现了"]
         ],
         "nextXianzhe": ["0003"]
     }, {
         "id": "0002",
         "details": [
-            ["我随便说说的，别在意"]
+            ["emm 有些伤心呢"]
         ],
         "nextXianzhe": ["0003"]
     }, {
         "id": "0003",
         "details": [
-            ["你想知道点什么？"]
+            ["真是个小机灵鬼呢！"]
         ],
         "responses": [{
             "content": "你是谁？",
