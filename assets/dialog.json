@@ -5,13 +5,13 @@
             ["很高兴遇见你，小姐姐！猜猜我是谁？"]
         ],
         "responses": [{
-            "content": "笨笨！",
+            "content": "路人甲",
             "nextXianzhe": ["0003"]
         }, {
             "content": "戏精本精",
             "nextXianzhe": ["0001"]
         }, {
-            "content": "路人甲",
+            "content": "不想猜",
             "nextXianzhe": ["0002"]
         }],
         "nextUser": ["1000"]
@@ -30,7 +30,7 @@
     }, {
         "id": "0003",
         "details": [
-            ["真是个小机灵鬼呢！"]
+            ["你知道今天是什么日子吗？"]
         ],
         "responses": [{
             "content": "你是谁？",
