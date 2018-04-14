@@ -5,20 +5,20 @@
             ["很高兴遇见你，小姐姐！猜猜我是谁？"]
         ],
         "responses": [{
-            "content": "路人甲",
+            "content": "大傻",
             "nextXianzhe": ["0003"]
         }, {
             "content": "戏精本精",
             "nextXianzhe": ["0001"]
         }, {
-            "content": "不想猜",
+            "content": "路人甲",
             "nextXianzhe": ["0002"]
-        }],
+        }]
         "nextUser": ["1000"]
     }, {
         "id": "0001",
         "details": [
-            ["嘿嘿~", "这都被你发现了"]
+            ["嘿嘿，我戏很足你是知道的"]
         ],
         "nextXianzhe": ["0003"]
     }, {
@@ -33,25 +33,25 @@
             ["你知道今天是什么日子吗？"]
         ],
         "responses": [{
-            "content": "你是谁？",
+            "content": "四月二十六啊",
             "nextXianzhe": ["0004"]
         }, {
-            "content": "羡辙是什么意思？",
+            "content": "我不知道诶",
             "nextXianzhe": ["0005"]
         }, {
-            "content": "问什么都可以吗？",
+            "content": "我生日啊",
             "nextXianzhe": ["0006"]
         }]
     }, {
         "id": "0004",
         "details": [
-            ["唔……", "这是个哲学问题……", "在我想出这个问题的答案前，我想，你还是先叫我羡辙吧！"]
+            ["你怎么可以忘记这么重要的日子！"]
         ],
         "nextXianzhe": ["0005"]
     }, {
         "id": "0005",
         "details": [
-            ["羡辙是我在阿里实习时候起的花名，具体参见这篇文章", "<a href='http://zhangwenli.com/blog/2015/04/29/new-name/'>http://zhangwenli.com/blog/2015/04/29/new-name</a>"]
+            ["今天是我最喜欢的小姐姐的生日呀！"]
         ],
         "responses": [{
             "content": "你的职业是？",
